@@ -1,0 +1,23 @@
+# Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+
+
+
+# Java
+*.class
+
+
+# Logs, coverage, swap
+*.log
+coverage/
+*.coverage
+*.swp
+*.swo
